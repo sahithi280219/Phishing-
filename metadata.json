@@ -1,0 +1,8 @@
+{
+  "name": "Phish Hunt",
+  "description": "Cyber Awareness Phish Hunt - Spot the Trap. Stay Safe. Futuristic cybersecurity escape room and interactive competition for college teams, built by Sahithi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
